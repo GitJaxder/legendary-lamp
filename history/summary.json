@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "61.12%",
-    "uptimeDay": "61.12%",
-    "uptimeWeek": "61.12%",
-    "uptimeMonth": "61.12%",
-    "uptimeYear": "61.12%",
+    "uptime": "68.41%",
+    "uptimeDay": "68.41%",
+    "uptimeWeek": "68.41%",
+    "uptimeMonth": "68.41%",
+    "uptimeYear": "68.41%",
     "time": 208,
     "timeDay": 208,
     "timeWeek": 208,
@@ -42,18 +42,20 @@
     "url": "modded.minecraft.jaxder.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.83%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "98.83%",
     "time": 42,
     "timeDay": 42,
     "timeWeek": 42,
     "timeMonth": 42,
     "timeYear": 42,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-03": 1
+    }
   },
   {
     "name": "Valheim Server",
@@ -61,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "valheim-server",
     "status": "down",
-    "uptime": "0.29%",
-    "uptimeDay": "0.29%",
-    "uptimeWeek": "0.29%",
-    "uptimeMonth": "0.29%",
-    "uptimeYear": "0.29%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-03": 6
+      "2025-12-03": 27
     }
   }
 ]
