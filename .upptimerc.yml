@@ -10,9 +10,7 @@ sites:
     check: "tcp-ping"
     port: 38754
   - name: Plex
-    url: https://server.plex.jareddsharp.com
-    port: 64158
-    check: "tcp-ping"
+    url: https://server.plex.jareddsharp.com/identity
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
