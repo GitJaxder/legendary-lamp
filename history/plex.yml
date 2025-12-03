@@ -1,7 +1,7 @@
-url: https://server.plex.jareddsharp.com/identity
+url: $PLEX_URL
 status: up
 code: 200
-responseTime: 202
-lastUpdated: 2025-12-03T17:40:04.124Z
+responseTime: 181
+lastUpdated: 2025-12-03T17:54:41.398Z
 startTime: 2025-12-03T17:04:51.150Z
 generator: Upptime <https://github.com/upptime/upptime>
