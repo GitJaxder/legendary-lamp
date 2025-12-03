@@ -3,14 +3,26 @@ owner: GitJaxder # Your GitHub organization or username, where this repository l
 repo: legendary-lamp # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Plex
+    url: $PLEX_URL
+  - name: Plex Requests
+    url: plex.jareddsharp.com
   - name: Minecraft Server
     url: modded.minecraft.jaxder.com
     check: "tcp-ping"
     port: 38754
-  - name: Plex
-    url: $PLEX_URL
+  - name: Palworld Server
+    url: games.jaxder.com
+    check: "udp-ping"
+    port: 38572
+  - name: Valheim Server
+    url: games.jaxder.com
+    check: "tcp-ping"
+    port: 2456
+  - name: Project Zomboid Server
+    url: games.jaxder.com
+    check: "udp-ping"
+    port: 16261
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -21,7 +33,6 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status of Jared's Servers
   introTitle: "This site was built using **Upptime**, the open-source uptime monitor and status page, powered entirely by GitHub."
-  customBodyHTML: <!--OST Widget code start--><div style="text-align:right;"><div style="min-height:360px;"><div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe style="border:none;position:absolute;top:0;left:0;width:100%;height:100%;min-height:360px;border:none;overflow:hidden !important;" src="//openspeedtest.com/speedtest"></iframe></div></div>Provided by <a href="https://openspeedtest.com">OpenSpeedtest.com</a></div><!-- OST Widget code end -->
   navbar:
     - title: Status
       href: /
