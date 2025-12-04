@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "68.41%",
-    "uptimeDay": "68.41%",
-    "uptimeWeek": "68.41%",
-    "uptimeMonth": "68.41%",
-    "uptimeYear": "68.41%",
-    "time": 208,
-    "timeDay": 208,
-    "timeWeek": 208,
-    "timeMonth": 208,
-    "timeYear": 208,
+    "uptime": "93.14%",
+    "uptimeDay": "93.14%",
+    "uptimeWeek": "93.14%",
+    "uptimeMonth": "93.14%",
+    "uptimeYear": "93.14%",
+    "time": 219,
+    "timeDay": 219,
+    "timeWeek": 219,
+    "timeMonth": 219,
+    "timeYear": 219,
     "dailyMinutesDown": {
       "2025-12-03": 35
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 508,
-    "timeWeek": 508,
-    "timeMonth": 508,
-    "timeYear": 508,
+    "time": 563,
+    "timeDay": 563,
+    "timeWeek": 563,
+    "timeMonth": 563,
+    "timeYear": 563,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
     "status": "down",
-    "uptime": "98.83%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "98.83%",
+    "uptime": "21.46%",
+    "uptimeDay": "21.46%",
+    "uptimeWeek": "21.46%",
+    "uptimeMonth": "21.46%",
+    "uptimeYear": "21.46%",
     "time": 42,
     "timeDay": 42,
     "timeWeek": 42,
     "timeMonth": 42,
     "timeYear": 42,
     "dailyMinutesDown": {
-      "2025-12-03": 1
+      "2025-12-04": 99,
+      "2025-12-03": 305
     }
   },
   {
@@ -63,18 +64,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "valheim-server",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-03": 27
+      "2025-12-04": 99,
+      "2025-12-03": 330
     }
   }
 ]
