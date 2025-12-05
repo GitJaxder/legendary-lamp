@@ -30,6 +30,8 @@ status-website:
       href: /
     - title: Speedtest
       href: https://speedtest.jareddsharp.com
+    - title: Plex Requests
+      href: https://plex.jareddsharp.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
