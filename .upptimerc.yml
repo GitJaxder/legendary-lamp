@@ -11,10 +11,10 @@ sites:
     url: modded.minecraft.jaxder.com
     check: "tcp-ping"
     port: 38754
-  - name: Valheim Server
-    url: games.jaxder.com
-    check: "tcp-ping"
-    port: 2457
+#  - name: Valheim Server
+#    url: games.jaxder.com
+#    check: "tcp-ping"
+#    port: 2457
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
