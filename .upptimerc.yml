@@ -8,7 +8,7 @@ sites:
   - name: Plex Requests
     url: plex.jareddsharp.com
   - name: Minecraft Server
-    url: modded.minecraft.jaxder.com
+    url: minecraft.jaxder.com
     check: "tcp-ping"
     port: 38754
 #  - name: Valheim Server
