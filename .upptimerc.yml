@@ -4,7 +4,7 @@ repo: legendary-lamp # The name of this repository
 
 sites:
   - name: Plex
-    url: $PLEX_URL
+    url: https://plex.server.jareddsharp.com
   - name: Plex Requests
     url: plex.jareddsharp.com
   - name: Minecraft Server
