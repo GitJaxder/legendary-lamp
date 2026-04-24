@@ -4,7 +4,9 @@ repo: legendary-lamp # The name of this repository
 
 sites:
   - name: Plex
-    url: https://plex.server.jareddsharp.com
+    url: vpn.jareddsharp.com
+    check: "tcp-ping"
+    port: 64158
   - name: Plex Requests
     url: plex.jareddsharp.com
   - name: Minecraft Server
